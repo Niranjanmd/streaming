@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77805320-f4d2-4bcf-8473-3cf933f4d245" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Streaming" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z1HDilW9SuzLBqrHp8kjHNbT88" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Niranjan\Practice\spark\Streaming\src\main\resources" />
+      <recent name="C:\Niranjan\Practice\spark\Streaming\src\main\scala\com\streaming\datagenerator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ViewingFiguresStreaming">
+    <configuration name="KafkaViewProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streaming.datagenerator.KafkaViewProducer" />
+      <module name="Streaming" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streaming.datagenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggingServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streaming.datagenerator.LoggingServer" />
+      <module name="Streaming" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streaming.datagenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkStreaming" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.dtreaming.DStream.SparkStreaming" />
+      <module name="Streaming" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewingFiguresStreaming" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.dtreaming.DStream.ViewingFiguresStreaming" />
+      <module name="Streaming" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dtreaming.DStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ViewingFiguresStreaming" />
+        <item itemvalue="Application.KafkaViewProducer" />
+        <item itemvalue="Application.LoggingServer" />
+        <item itemvalue="Application.SparkStreaming" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Streaming" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming [file:/C:/Niranjan/Practice/spark/Streaming/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Streaming-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2318997565" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Office/EDT/Matadata/esb.jdbc.metadata.extractor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Office/EDT/Play_Api_Demo/play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Office/EDT/Pub/AvroPublisher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Office/EDT/Sub/com.rxcorp.soa.pubSub/AvroSubscriber" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Office/EDT/webapi/IMS.ESB.WebAPI" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Office/Projects/BEM/com.rxcorp.bem.bemapi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark_learning_niranjan" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/C Data/sp/No_Mod/com.rxcorp.spectrapharm-Dev-New" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/SPP/dev-new" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77805320-f4d2-4bcf-8473-3cf933f4d245" name="Default Changelist" comment="" />
+      <created>1583999562688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583999562688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="59" key="#&lt;template&gt;_of_Application" timestamp="1584512476523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="59" key="#&lt;template&gt;_of_Application/0.0.1536.824@0.0.1536.824" timestamp="1584512476523" />
+    <state x="485" y="82" key="#KafkaViewProducer" timestamp="1584512603040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="82" key="#KafkaViewProducer/0.0.1536.824@0.0.1536.824" timestamp="1584512603040" />
+    <state x="476" y="82" key="#LoggingServer" timestamp="1584512576147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="82" key="#LoggingServer/0.0.1536.824@0.0.1536.824" timestamp="1584512576147" />
+    <state x="485" y="82" key="#SparkStreaming" timestamp="1584512559710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="82" key="#SparkStreaming/0.0.1536.824@0.0.1536.824" timestamp="1584512559710" />
+    <state x="476" y="82" key="#ViewingFiguresStreaming" timestamp="1584896434450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="82" key="#ViewingFiguresStreaming/0.0.1536.824@0.0.1536.824" timestamp="1584896434450" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584514708731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584514708731" />
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584512244947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584512244947" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584503776292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584503776292" />
+    <state width="1537" height="632" key="GridCell.Tab.0.bottom" timestamp="1584950140708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="632" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584950140708" />
+    <state width="1537" height="632" key="GridCell.Tab.0.center" timestamp="1584950140707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="632" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584950140707" />
+    <state width="1537" height="632" key="GridCell.Tab.0.left" timestamp="1584950140707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="632" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584950140707" />
+    <state width="1537" height="632" key="GridCell.Tab.0.right" timestamp="1584950140707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="632" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584950140707" />
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1584334564522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584334564522" />
+    <state width="1537" height="270" key="GridCell.Tab.1.center" timestamp="1584334564521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584334564521" />
+    <state width="1537" height="270" key="GridCell.Tab.1.left" timestamp="1584334564520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584334564520" />
+    <state width="1537" height="270" key="GridCell.Tab.1.right" timestamp="1584334564522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584334564522" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584896427335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584896427335" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584897379768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584897379768" />
+  </component>
+</project>

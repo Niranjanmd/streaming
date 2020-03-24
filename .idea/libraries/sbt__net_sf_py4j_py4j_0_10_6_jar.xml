@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: net.sf.py4j:py4j:0.10.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/http/nexus.rxcorp.com%3A8081/nexus/repository/mvn-repositories/net/sf/py4j/py4j/0.10.6/py4j-0.10.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/http/nexus.rxcorp.com%3A8081/nexus/repository/mvn-repositories/net/sf/py4j/py4j/0.10.6/py4j-0.10.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/http/nexus.rxcorp.com%3A8081/nexus/repository/mvn-repositories/net/sf/py4j/py4j/0.10.6/py4j-0.10.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

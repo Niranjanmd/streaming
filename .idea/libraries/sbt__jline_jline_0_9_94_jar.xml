@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: jline:jline:0.9.94:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/http/nexus.rxcorp.com%3A8081/nexus/repository/mvn-repositories/jline/jline/0.9.94/jline-0.9.94.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/http/nexus.rxcorp.com%3A8081/nexus/repository/mvn-repositories/jline/jline/0.9.94/jline-0.9.94-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
