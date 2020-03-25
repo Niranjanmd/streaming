@@ -23,7 +23,7 @@ object ViewingFiguresStreaming extends App {
     "bootstrap.servers" -> "localhost:9092",
     "key.deserializer" -> classOf[StringDeserializer],
     "value.deserializer" -> classOf[StringDeserializer],
-    "group.id" -> "spark-group",
+    "group.id" -> "spark-group-1",
     "auto.offset.reset" -> "latest",
     "enable.auto.commit" -> (false: java.lang.Boolean)
   )
@@ -37,7 +37,7 @@ object ViewingFiguresStreaming extends App {
   val result = stream.map(item => item.value())
 
   val mostWatched = result.map(item => (item, 5L))
-    .reduceByKeyAndWindow((x, y) => x + y , Durations.minutes(60)).map(item => item.swap)
+    .reduceByKeyAndWindow((x:Long, y:Long) => x + y , Durations.minutes(60),Durations.seconds(20)).map(item => item.swap)
       .transform(x => x.sortByKey(false))
 
 

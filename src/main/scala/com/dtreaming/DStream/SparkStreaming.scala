@@ -23,7 +23,7 @@ object SparkStreaming extends App {
 
 //  val newResult = transform.reduceByKey((x, y) => x + y)
 
-  val windowVersion = transform.reduceByKeyAndWindow((x, y) => x + y,Durations.minutes(1))
+  val windowVersion = transform.reduceByKeyAndWindow((x:Long, y:Long) => x + y,Durations.minutes(1),Durations.minutes(1))
 
 
 //  newResult.print()
