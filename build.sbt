@@ -13,6 +13,7 @@ libraryDependencies += "org.apache.kafka" %% "kafka" % "2.1.0"
 //libraryDependencies += "org.apache.spark" %% "spark-streaming-kafka" % "1.4.1"
 // https://mvnrepository.com/artifact/org.apache.spark/spark-streaming-kafka-0-10
 libraryDependencies += "org.apache.spark" %% "spark-streaming-kafka-0-10" % "2.4.0"
+libraryDependencies += "org.apache.spark" %% "spark-sql-kafka-0-10" % "2.4.0"
 dependencyOverrides += "com.fasterxml.jackson.core" % "jackson-databind" % "2.6.7"
 
 
